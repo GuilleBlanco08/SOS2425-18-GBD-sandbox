@@ -71,7 +71,7 @@ function loadBackend(app){
    
 
     app.get(BASE_API+"/docs",(request,response)=>{
-        response.redirect("https://documenter.getpostman.com/view/359472/2sAYkGLezF");
+        response.redirect("https://documenter.getpostman.com/view/42117294/2sB2cPhjjB");
     });
 
 }
