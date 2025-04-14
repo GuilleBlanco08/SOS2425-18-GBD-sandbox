@@ -1,1 +1,5 @@
-Welcome to SvelteKit v2
+<svelte:head>
+    <title>Contact Manager</title>
+</svelte:head>
+
+Welcome to the contact manager v1
